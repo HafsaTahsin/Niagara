@@ -1,0 +1,32 @@
+{
+    background-color: rgba(252, 4, 158, 1);
+    color: 
+}
+
+h1 {
+    color: aqua;
+
+}
+
+.red-font {
+    color: red;
+}
+
+#blue-font {
+    color: blue;
+}
+
+.font-style {
+
+    font-weight: 100;
+
+    font-size: 40px;
+
+    text-align: center;
+
+    letter-spacing: 5px;
+
+    word-spacing: 20px;
+
+    
+}
